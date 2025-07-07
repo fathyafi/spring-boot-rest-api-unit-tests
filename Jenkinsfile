@@ -45,7 +45,7 @@ pipeline {
       echo "Pipeline berhasil 🚀"
     }
     failure {
-      echo "Pipeline gagal 💥 2"
+      echo "Pipeline gagal 💥"
     }
   }
 }
