@@ -42,10 +42,10 @@ pipeline {
  
   post {
     success {
-      echo "Pipeline berhasil 🚀"
+      echo "Pipeline berhasil bro"
     }
     failure {
-      echo "Pipeline gagal 💥 2"
+      echo "Pipeline gagal bro"
     }
   }
 }
