@@ -12,7 +12,7 @@ pipeline {
   stages {
     stage('Checkout') {
       steps {
-        git url: 'https://github.com/noghanodedra/spring-boot-rest-api-unit-tests', branch: 'master'
+        git url: 'https://github.com/fathyafi/spring-boot-rest-api-unit-tests.git', branch: 'main'
       }
     }
  
